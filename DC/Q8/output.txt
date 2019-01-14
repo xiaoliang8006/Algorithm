@@ -1,0 +1,3 @@
+minimum distance: 0
+minimum distance: 1
+minimum distance: 0.0316228

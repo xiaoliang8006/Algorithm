@@ -1,0 +1,8 @@
+significant inversion of a: 667
+total number: 1
+significant inversion of a: 6567
+total number: 1
+significant inversion of a: 236
+significant inversion of a: 235
+significant inversion of a: 4145
+total number: 3

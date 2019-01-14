@@ -1,0 +1,15 @@
+hello
+M         M         M         M         
+M         12        24        M         
+M         8         55        M         
+M         M         M         M         
+local minimum: 8
+M         M         M         M         M         M         
+M         234       34554     45        654       M         
+M         324       4         5         67        M         
+M         24        43        5         6         M         
+M         4         5         6         7         M         
+M         M         M         M         M         M         
+local minimum: 234
+local minimum: 4
+local minimum: 4
